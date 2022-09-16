@@ -1,0 +1,38 @@
+.card {
+  height: 210px;
+  width: 250px;
+  color: black;
+  font-weight: 700;
+  background-color: bisque;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+.display {
+  background-color: azure;
+}
+.addToCart {
+  margin-top: 60px;
+  width: 100%;
+}
+.header {
+  height: 80px;
+  background-color: lightgreen;
+  color: beige;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.cartCart {
+  border: 15px solid mediumvioletred;
+  border-radius: 10px;
+  padding: 6px;
+  font-size: 25px;
+  margin: 4px;
+}
+.displayBody {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin: 5%;
+}
